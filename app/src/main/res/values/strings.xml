@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Big Mama Index</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="your_height_in_cm">Your height in cm</string>
+    <string name="your_weight_in_kg">Your weight in kg</string>
+    <string name="compute_my_bmi">Compute my BMI</string>
+    <string name="clear">clear</string>
+</resources>
